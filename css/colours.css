@@ -1,0 +1,16 @@
+/* converted from colours.ase */
+:root {
+	/* De Coalitie */
+	--red-white: RGB(255, 229, 229);
+	--red-light: RGB(247, 169, 139);
+	--red-regular: RGB(229, 84, 32);
+	--red-accent: RGB(184, 55, 9);
+	--red-dark: RGB(117, 31, 0);
+	--red-black: RGB(26, 7, 0);
+	--purple-white: RGB(255, 240, 249);
+	--purple-light: RGB(224, 72, 162);
+	--purple-regular: RGB(173, 12, 107);
+	--purple-accent: RGB(130, 0, 77);
+	--purple-dark: RGB(82, 0, 48);
+	--purple-black: RGB(33, 0, 20);
+}
