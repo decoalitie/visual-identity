@@ -1,8 +1,8 @@
-/* converted from 'De Coalitie.ase' */
+/* converted from De Coalitie v3.ase */
 :root {
 	/* De Coalitie */
-	--red-white: RGB(255, 229, 229);
-	--red-light: RGB(247, 169, 139);
+	--red-white: RGB(255, 245, 245);
+	--red-light: RGB(255, 173, 123);
 	--red-regular: RGB(229, 84, 32);
 	--red-accent: RGB(184, 55, 9);
 	--red-dark: RGB(117, 31, 0);
